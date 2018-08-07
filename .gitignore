@@ -4,3 +4,7 @@ lfw/
 saved_models/
 .ipynb_checkpoints/
 __pycache__/
+.floydexpt
+.floydignore
+floyd.yml
+debug.log
